@@ -38,6 +38,7 @@ Define a Servlet by annotating with `@WebServlet` like you normally do, but subc
 
 
 **How do you make the page form recognizable by `SAF`?**
+
 Page must set a form value with the name event to the name of the button that initiated the submit.
 Example code with `jQuery`.
 ```javascript
