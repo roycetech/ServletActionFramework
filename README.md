@@ -17,7 +17,7 @@ Required Dependencies
 - `javax.servlet`
 
 
-Basic to use
+Basic use
 ------------
 **How do you define a servlet?**
 Define a Servlet by annotating with `@WebServlet` like you normally do, but subclass `ph.rye.saf.SafServlet`.
